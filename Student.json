@@ -1,0 +1,11 @@
+{
+    "2024101234": {
+        "first_name": "Alice",
+        "last_name": "Zamora",
+        "age": 20,
+        "sex": "F",
+        "year_level": "2nd Year",
+        "email": "alice@example.com",
+        "section": "BSCS-2A"
+    }
+}

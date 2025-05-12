@@ -1,0 +1,14 @@
+{    
+    "BSCS-2A": [
+        {
+            "code": "CS201",
+            "description": "Data Structures",
+            "schedule": "MWF 9:00AM-10:00AM"
+        },
+        {
+            "code": "MATH202",
+            "description": "Calculus II",
+            "schedule": "TTH 1:00PM-2:30PM"
+        }
+    ]
+}
